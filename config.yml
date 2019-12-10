@@ -1,0 +1,12 @@
+---
+:api_key: 0166a298cd650e46e26052852e545cd4
+:password: d68936b1b47b82adc85e14e20798520c
+:store: my-demo-store-partners-1234.myshopify.com/
+:theme_id: '80159473712'
+:whitelist_files:
+- layout/
+- assets/
+- config/
+- snippets/
+- templates/
+- locales/
